@@ -1,9 +1,9 @@
 <?php
 //
 //  TorrentTrader v2.x
-//  English language file
-//    $LastChangedDate: 2011-12-28 23:38:09 +0000 (Wed, 28 Dec 2011) $
-//      $LastChangedBy: dj-howarth1 $
+//  Portuguse language file
+//    $LastChangedDate: 2011-12-28 23:38:09 +0000 (fri, 28 Jul 2017) $
+//      $LastChangedBy: eunaumtenhoid $
 //
 //    http://www.torrenttrader.org
 //
@@ -13,9 +13,7 @@
 // $LANG["PLURAL_FORMS"] is in the plural= format
 
 /* Contributors:
-	TorrentialStorm
-	djhowarth
-	ArticWolf
+
 */
 
 $LANG = array();
